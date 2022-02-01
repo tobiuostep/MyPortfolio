@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+#main {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
